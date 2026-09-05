@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+requests
+numpy
+opencv-python
+Pillow
+insightface
+onnxruntime
+web3

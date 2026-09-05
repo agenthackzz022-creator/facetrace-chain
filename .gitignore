@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Backend generated files
+backend/uploads/
+backend/search_cache/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Foundry
+contracts/broadcast/
+contracts/cache/
+contracts/out/
+
+# OS
+.DS_Store
+Thumbs.db
